@@ -1,0 +1,23 @@
+{
+  "name": "gof-patterns",
+  "version": "1.0.0",
+  "description": "Gang of Four Design Patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madmxg/gof-patterns.git"
+  },
+  "keywords": [],
+  "author": "Mikhail Garbuzov <madmxg@gmail.com>",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/madmxg/gof-patterns/issues"
+  },
+  "homepage": "https://github.com/madmxg/gof-patterns#readme",
+  "devDependencies": {
+    "jest": "23.3.0"
+  }
+}
